@@ -25,6 +25,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +45,5 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
