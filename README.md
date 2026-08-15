@@ -28,6 +28,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | [0075-sort-colors](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +57,12 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | [0075-sort-colors](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
