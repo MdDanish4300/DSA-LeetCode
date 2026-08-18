@@ -11,22 +11,18 @@ class Solution {
             int right = n - 1;
 
             while (left < right) {
-                int total_sum = nums[i] + nums[left] + nums[right];
-                int d = Math.abs(target - total_sum);
+                int total = nums[i] + nums[left] + nums[right];
+                int d = Math.abs(target - total);
 
-                // Main logic of the program.
                 if (d < diff) {
                     diff = d;
-                    resSum = total_sum;
+                    resSum = total;
                 }
-                
-                // Now here we have compare and move pointers.
-                if (total_sum == target) {
+
+                if (total == target) {
                     return resSum;
-
-                } else if (total_sum < target) {
+                } else if (total < target) {
                     left++;
-
                 } else {
                     right--;
                 }
