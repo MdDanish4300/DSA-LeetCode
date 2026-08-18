@@ -65,4 +65,12 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
