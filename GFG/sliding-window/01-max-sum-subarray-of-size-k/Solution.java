@@ -8,33 +8,29 @@ class Solution {
             return 0;
         }
         
-        int currWindowSum = 0;
+        int windowSum = 0;
         
-        // 1. Calculate the sum of first window.
-        for(int i = 0; i < k; i++) {
-            currWindowSum += arr[i];
+        // Calculate the current window Sum.
+        for(int i=0; i<k; i++) {
+            windowSum += arr[i];
         }
         
-        int maxSum = currWindowSum;
+        int maxSum = windowSum;
         
-        // Pointers for the current window.
+        // Pointers to Slide the winodow
         int low = 0;
-        int high = k - 1;
         
-        // 2. Slide the window
-        while (high < n - 1) {
+        // Sliding the window
+        for(int high=k-1 ; high < n - 1; high++) {
             
-            // Remove the element leaving the window.
-            currWindowSum -= arr[low];
+            windowSum -= arr[low];  // Removing the last element from the arr.
             
-            low++;  // Move the low pointer.
-            high++; // Move the high pointer.
+            low++;
             
-            // Add the element entering the window
-            currWindowSum += arr[high];
+            windowSum += arr[high + 1]; // Adding the new element in the arr.
+             
+            maxSum = Math.max(windowSum, maxSum);
             
-            // Update the maximum
-            maxSum = Math.max(currWindowSum, maxSum);
         }
         
         return maxSum;
