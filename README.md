@@ -35,6 +35,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,4 +76,16 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
