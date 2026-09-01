@@ -1,10 +1,12 @@
 class Solution {
     public int firstUniqChar(String s) {
-             
-        // Firstly, created a HashMap.
-        HashMap <Character, Integer> map = new HashMap<>();
 
-        // Count the frequency of each character in the string.
+        int n = s.length();
+
+        // Firstly created the HashMap.
+        Map <Character, Integer> map = new HashMap<>();
+       
+        // Count the frequency of each characters in the string.
         for(int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
 
@@ -12,7 +14,7 @@ class Solution {
         }
 
         // Find the first character with the frequency 1.
-        for(int i = 0; i < s.length(); i++) {
+        for(int i = 0; i < n; i++) {
             char ch = s.charAt(i);
 
             if (map.get(ch) == 1) {
