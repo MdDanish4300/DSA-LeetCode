@@ -35,6 +35,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -87,5 +89,6 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
