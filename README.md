@@ -30,6 +30,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0283-move-zeroes) |
+| [0904-fruit-into-baskets](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | [0001-two-sum](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +67,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
