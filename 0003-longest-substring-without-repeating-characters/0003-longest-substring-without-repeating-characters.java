@@ -5,29 +5,25 @@ class Solution {
         int low = 0;
         int ans = 0;
 
-        Map <Character, Integer> freq = new HashMap<>();
+        Set <Character> set = new HashSet<>();
 
-        for(int high = 0; high < n; high++) {
-            
-            // Add the current character to map.
-            char currentChar = s.charAt(high);
-            freq.put(currentChar, freq.getOrDefault(currentChar, 0) + 1);
+        for (int high = 0; high < n; high++) {
 
-            while (freq.get(currentChar) > 1) {
+            char currentChar = s.charAt(high);     
+
+            // If duplicate, shrink the window
+            while(set.contains(currentChar)) {
                 char leftChar = s.charAt(low);
 
-                // decrease frequency
-                freq.put(leftChar, freq.get(leftChar) - 1);
+                set.remove(leftChar);
 
-                // Remove the charcter if its frequency becomes 0.
-                if (freq.get(leftChar) == 0) {
-                    freq.remove(leftChar);
-                }
-
-                low++; // Move the low pointer.
-
+                low++;
             }
+            
+            // Add current character
+            set.add(currentChar);
 
+            // Update maximum length
             ans = Math.max(ans, high - low + 1);
         }
 
