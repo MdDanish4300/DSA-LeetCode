@@ -40,6 +40,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | [0383-ransom-note](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | [0003-longest-substring-without-repeating-characters](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Queue
 |  |
 | ------- |
@@ -97,4 +99,5 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | ------- |
 | [0383-ransom-note](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
