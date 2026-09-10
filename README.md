@@ -40,6 +40,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | [0383-ransom-note](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
@@ -71,6 +72,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
@@ -91,6 +93,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | [0383-ransom-note](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Queue
 |  |
