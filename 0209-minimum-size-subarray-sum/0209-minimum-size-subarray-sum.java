@@ -1,29 +1,24 @@
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
-        int minLenWindow = Integer.MAX_VALUE;
-        int currSum = 0;
-
-        // To slide and shrink the window we need to have pointers.
+        int n = nums.length;
         int low = 0;
-        int high = 0;
 
-        // Find the currSum and increase the window size.
-        while (high < nums.length) {
+        int currSum = 0;
+        int minLenWindow = Integer.MAX_VALUE;
+
+        for(int high = 0; high < n; high++) {
             currSum += nums[high];
-            high++;
 
-            // Shrink the window while condition is satisfied.
             while (currSum >= target) {
+                int currWindowLen = high - low + 1;
 
-                int currWindowSize = high - low;
-
-                minLenWindow = Math.min(minLenWindow, currWindowSize);
-
+                minLenWindow = Math.min(minLenWindow, currWindowLen);
                 currSum -= nums[low];
                 low++;
             }
         }
 
         return minLenWindow == Integer.MAX_VALUE ? 0 : minLenWindow;
+
     }
 }
