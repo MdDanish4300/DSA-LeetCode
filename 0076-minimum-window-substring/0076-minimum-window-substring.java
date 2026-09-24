@@ -1,64 +1,63 @@
 class Solution {
     public String minWindow(String s, String t) {
 
-        // Edge case
+        // Edge case 
         if (s.length() == 0 || t.length() == 0) {
             return "";
         }
-
-        int[] have = new int[256];
-        int[] needed = new int[256];
-
-        int start = 0;
-        int minLenWindow = Integer.MAX_VALUE;
-        int minStart = 0;
-        int count = 0;
-
-        // Store frequency of characters in t
-        for (char ch : t.toCharArray()) {
-            needed[ch]++;
+        
+        // Frequency of characters required in t.
+        int[] freq = new int[128];
+        
+        for(char ch : t.toCharArray()) {
+            freq[ch]++;
         }
 
-        // Sliding Window
-        for (int end = 0; end < s.length(); end++) {
+        int low = 0;
+        int count = 0; // Number of required characters satisfied
+        int minLength = Integer.MAX_VALUE;
+        int start = 0;
 
-            char ch = s.charAt(end);
-            have[ch]++;
+        for(int high = 0; high < s.length(); high++) {
 
-            // Character contributes to satisfying t
-            if (have[ch] <= needed[ch]) {
+            char ch = s.charAt(high);
+
+            // If this character is still needed
+            if (freq[ch] > 0) {
                 count++;
             }
 
-            // Current window contains all required characters
+            // Decrease the requirement / track window
+            freq[ch]--;
+
             while (count == t.length()) {
 
-                int windowSize = end - start + 1;
-
                 // Update minimum window
-                if (windowSize < minLenWindow) {
-                    minLenWindow = windowSize;
-                    minStart = start;
+                if (high - low + 1 < minLength) {
+                    minLength = high - low + 1;
+                    start = low;
                 }
 
-                // Remove character from left
-                char remove = s.charAt(start);
-                have[remove]--;
+                char leftChar = s.charAt(low);
 
-                // We lost a required character
-                if (have[remove] < needed[remove]) {
+                // Put the character back into requirement
+                freq[leftChar]++;
+
+                // If the frequency becomes positive 
+                // we have lost a required character
+                if (freq[leftChar] > 0 ) {
                     count--;
                 }
 
-                start++;
+                low++;
             }
         }
 
-        // No valid window found
-        if (minLenWindow == Integer.MAX_VALUE) {
+        // No valid window length
+        if (minLength == Integer.MAX_VALUE) {
             return "";
         }
 
-        return s.substring(minStart, minStart + minLenWindow);
+        return s.substring(start, start + minLength);
     }
 }
