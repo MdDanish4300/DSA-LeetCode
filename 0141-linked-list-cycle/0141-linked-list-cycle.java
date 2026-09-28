@@ -12,7 +12,7 @@
 public class Solution {
     public boolean hasCycle(ListNode head) {
 
-        // Boht the pointers start from the head 
+        // Both the pointers start from the head 
         ListNode slow = head; 
         ListNode fast = head;
         
