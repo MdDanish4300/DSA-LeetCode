@@ -30,6 +30,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -59,6 +60,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | [0142-linked-list-cycle-ii](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -66,6 +68,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -132,4 +135,13 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
