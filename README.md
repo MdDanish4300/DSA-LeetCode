@@ -36,6 +36,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | [0904-fruit-into-baskets](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Quicksort
 |  |
 | ------- |
