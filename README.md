@@ -34,6 +34,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | [0217-contains-duplicate](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0904-fruit-into-baskets](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -99,6 +100,7 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Quicksort
@@ -167,4 +169,8 @@ This repository contains my **Java** solutions to LeetCode problems. I'm solving
 | ------- |
 | [0053-maximum-subarray](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/MdDanish4300/DSA-LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
