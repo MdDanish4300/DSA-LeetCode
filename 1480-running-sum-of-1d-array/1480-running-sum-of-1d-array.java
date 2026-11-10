@@ -8,14 +8,12 @@ class Solution {
         // The first prefix sum is the first element itself
         prefix[0] = nums[0];
 
-        // Start from index 1 because index 0 is already initialized
-        for (int i = 1; i < n; i++) {
-
-            // Current prefix sum = previous prefix sum + current element
+        for(int i = 1; i < n; i++) {
+            // Current prefix sum = previous prefix sum + current sum
             prefix[i] = prefix[i - 1] + nums[i];
         }
 
-        // Return the array containing the running sums
+        // Return the array containing the running sum
         return prefix;
     }
 }
